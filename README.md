@@ -1,1 +1,1 @@
-# for lab notes of INWK6312 Programming
+# for INWK6312 Programming lab notes
